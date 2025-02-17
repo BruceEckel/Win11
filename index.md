@@ -1,4 +1,4 @@
-## General
+# Windows 11 Notes & Shortcuts
 
 <br><kbd>Win</kbd><kbd>A</kbd> Open Quick Settings panel
 <br><kbd>Win</kbd><kbd>C</kbd> Open Copilot (in supported regions)
