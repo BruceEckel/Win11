@@ -52,8 +52,7 @@
 | <kbd>Ctrl</kbd><kbd>Esc</kbd> | Open Start menu |
 | <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>Esc</kbd> | Open Task Manager |
 
-## Multitasking & Window Management
-
+| Multitasking & Window Management |
 |---|---|
 | <kbd>Win</kbd><kbd>Tab</kbd> | Open Task View |
 | <kbd>Alt</kbd><kbd>Tab</kbd> | Switch to last active window (hold to see all) |
@@ -97,7 +96,7 @@
 | <kbd>Ctrl</kbd><kbd>Space</kbd> | Select/deselect item under cursor |
 | <kbd>Shift</kbd><kbd>Arrow</kbd> | Select consecutive items from current item |
 | <kbd>F11</kbd> | Maximize or minimize current window (also in browsers) |
----
+<br><br>
 
 | Sidebar ||
 |---|---|
@@ -163,7 +162,7 @@
 | <kbd>End</kbd> | Move to end of current line |
 | <kbd>Ctrl</kbd><kbd>End</kbd> | Move to end of document |
 | <kbd>Alt</kbd><kbd>Shift</kbd><kbd>Arrow</kbd> | Move pinned Start-menu app in arrow direction |
----
+<br><br>
 
 | Menus ||
 |---|---|
@@ -171,7 +170,7 @@
 | <kbd>→</kbd> | Move right or open sub-menu |
 | <kbd>Alt</kbd><kbd>Letter</kbd> | Select item with underlined letter |
 
----
+<br><br>
 
 | <kbd>Shift</kbd><kbd>Arrow</kbd> | Select text from cursor |
 |---|---|
@@ -180,7 +179,7 @@
 | <kbd>↑</kbd> | previous line |
 | <kbd>↓</kbd> | next line |
 
----
+<br><br>
 
 | <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>Arrow</kbd> | Select bigger chunks |
 |---|---|
