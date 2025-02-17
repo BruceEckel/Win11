@@ -1,2 +1,1 @@
-# Win11
-Shortcuts and Notes
+# Windows 11 Shortcuts and Notes
