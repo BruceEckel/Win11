@@ -51,6 +51,8 @@
 <br><kbd>Ctrl</kbd><kbd>Esc</kbd> Open Start menu
 <br><kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>Esc</kbd> Open Task Manager
 
+---
+
 ## Multitasking & Window Management
 
 <br><kbd>Win</kbd><kbd>Tab</kbd> Open Task View
@@ -70,6 +72,8 @@
 <br><kbd>Win</kbd><kbd>Ctrl</kbd><kbd>D</kbd> Create new virtual desktop
 <br><kbd>Win</kbd><kbd>Ctrl</kbd><kbd>←</kbd>/<kbd>→</kbd> Switch between virtual desktops
 <br><kbd>Win</kbd><kbd>Ctrl</kbd><kbd>F4</kbd> Close current virtual desktop
+
+---
 
 ## File Explorer
 
@@ -97,9 +101,11 @@
 
 ### Sidebar
 
-<br><kbd>NumLock</kbd><kbd>+</kbd> Expand selected folder
-<br><kbd>→</kbd> Expand collapsed folder or jump to first subfolder
-<br><kbd>←</kbd> Collapse expanded folder or select parent folder
+- <br><kbd>NumLock</kbd><kbd>+</kbd> Expand selected folder
+- <br><kbd>→</kbd> Expand collapsed folder or jump to first subfolder
+- <br><kbd>←</kbd> Collapse expanded folder or select parent folder
+
+---
 
 ## Dialog Boxes
 
@@ -111,6 +117,8 @@
 <br><kbd>Tab</kbd> Move forward through options
 <br><kbd>Shift</kbd><kbd>Tab</kbd> Move backward through options
 <br><kbd>Alt</kbd><kbd>Letter</kbd> Select option with that underlined letter
+
+---
 
 ## Taskbar
 
@@ -126,6 +134,8 @@
 <br><kbd>Shift</kbd>right-click Show window menu for selected app
 <br><kbd>Ctrl</kbd>left-click (if multiple windows) Cycle through that app’s windows
 <br><kbd>Win</kbd><kbd>B</kbd> Focus first icon in taskbar corner (system tray)
+
+---
 
 ## Editing
 
