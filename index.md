@@ -133,13 +133,15 @@
 | <kbd>Win</kbd><kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>Number</kbd> | Run pinned app as admin |
 | <br><kbd>Shift</kbd><kbd>left-click</kbd> | Open new instance of selected app |
 | <br><kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>left-click</kbd> | Open app as administrator |
-| <br><kbd>Shift</kbd><kbd>right-click</kbd></kbd> | Show window menu for selected app |
+| <br><kbd>Shift</kbd><kbd>right-click</kbd> | Show window menu for selected app |
 | <br><kbd>Ctrl</kbd><kbd>left-click</kbd> | (if multiple windows) Cycle through that app’s windows |
 | <kbd>Win</kbd><kbd>B</kbd> | Focus first icon in taskbar corner (system tray) |
 
 <br><br>
 
-| Editing ||
+## Editing
+
+|||
 |---|---|
 | <kbd>Ctrl</kbd><kbd>A</kbd> | Select all |
 | <kbd>Ctrl</kbd><kbd>D</kbd> | Delete selected item/text |
