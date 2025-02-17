@@ -179,18 +179,18 @@
 | <kbd>→</kbd> | Move right or open sub-menu |
 | <kbd>Alt</kbd><kbd>Letter</kbd> | Select item with underlined letter |
 
-### <kbd>Shift</kbd><kbd>Arrow</kbd> Select text from cursor
+| <kbd>Shift</kbd><kbd>Arrow</kbd> | Select text from cursor |
+|---|---|
+| <kbd>←</kbd> | previous char |
+| <kbd>→</kbd> | next char |
+| <kbd>↑</kbd> | previous line |
+| <kbd>↓</kbd> | next line |
 
-- <kbd>←</kbd> previous char
-- <kbd>→</kbd> next char
-- <kbd>↑</kbd> previous line
-- <kbd>↓</kbd> next line
-
-### <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>Arrow</kbd> Select bigger chunks
-
-- <kbd>←</kbd> previous word
-- <kbd>→</kbd> next word
-- <kbd>↑</kbd> previous paragraph
-- <kbd>↓</kbd> next paragraph
-- <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>Home</kbd> Select from cursor to doc start
-- <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>End</kbd> Select from cursor to doc end
+| <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>Arrow</kbd> | Select bigger chunks |
+|---|---|
+| <kbd>←</kbd> | previous word |
+| <kbd>→</kbd> | next word |
+| <kbd>↑</kbd> | previous paragraph |
+| <kbd>↓</kbd> | next paragraph |
+| <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>Home</kbd> | Select from cursor to doc start |
+| <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>End</kbd> | Select from cursor to doc end |
