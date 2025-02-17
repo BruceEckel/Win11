@@ -102,11 +102,11 @@
 | <kbd>Shift</kbd><kbd>Arrow</kbd> | Select consecutive items from current item |
 | <kbd>F11</kbd> | Maximize or minimize current window (also in browsers) |
 
-### Sidebar
-
-- <br><kbd>NumLock</kbd><kbd>+</kbd> Expand selected folder
-- <br><kbd>→</kbd> Expand collapsed folder or jump to first subfolder
-- <br><kbd>←</kbd> Collapse expanded folder or select parent folder
+| Sidebar ||
+|---|---|
+| <br><kbd>NumLock</kbd><kbd>+</kbd> | Expand selected folder |
+| <br><kbd>→</kbd> | Expand collapsed folder or jump to first subfolder |
+| <br><kbd>←</kbd> | Collapse expanded folder or select parent folder |
 
 ---
 
@@ -173,11 +173,11 @@
 | <kbd>Ctrl</kbd><kbd>End</kbd> | Move to end of document |
 | <kbd>Alt</kbd><kbd>Shift</kbd><kbd>Arrow</kbd> | Move pinned Start-menu app in arrow direction |
 
-### Menus
-
-- <kbd>←</kbd> Move left or close sub-menu
-- <kbd>→</kbd> Move right or open sub-menu
-- <kbd>Alt</kbd><kbd>Letter</kbd> Select item with underlined letter
+| Menus ||
+|---|---|
+| <kbd>←</kbd> | Move left or close sub-menu |
+| <kbd>→</kbd> | Move right or open sub-menu |
+| <kbd>Alt</kbd><kbd>Letter</kbd> | Select item with underlined letter |
 
 ### <kbd>Shift</kbd><kbd>Arrow</kbd> Select text from cursor
 
