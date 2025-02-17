@@ -32,7 +32,7 @@
 | <kbd>Win</kbd><kbd>X</kbd> | Open Quick Link menu (same as right-click Start) |
 | <kbd>Win</kbd><kbd>Y</kbd> | Switch input between Windows Mixed Reality & desktop |
 | <kbd>Win</kbd><kbd>Z</kbd> | Open snap layouts panel |
-| <kbd>Win</kbd><kbd>.</kbd> | or <kbd>;</kbd> Open emoji panel |
+| <kbd>Win</kbd><kbd>.</kbd> or <kbd>;</kbd> | Open emoji panel |
 | <kbd>Win</kbd><kbd>,</kbd> | Peek at desktop (momentary) |
 | <kbd>Win</kbd><kbd>Ctrl</kbd><kbd>F</kbd> | Search for PCs on a domain network (Azure AD) |
 | <kbd>Win</kbd><kbd>Space</kbd> | Cycle languages/input methods (if multiple installed) |
@@ -46,8 +46,8 @@
 | <kbd>Win</kbd><kbd>Esc</kbd> | Close Magnifier |
 | <kbd>Win</kbd><kbd>/</kbd> | Begin IME reconversion |
 | <kbd>Win</kbd><kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>B</kbd> | Wake PC from blank/black screen |
-| <kbd>Win</kbd><kbd>PrtScn</kbd> | Full screenshot → auto-save to Pictures\Screenshots folder |
-| <kbd>Win</kbd><kbd>Alt</kbd><kbd>PrtScn</kbd> | Screenshot of active window → auto-save to file |
+| <kbd>Win</kbd><kbd>PrtScn</kbd> | Full screenshot & auto-save to Pictures\Screenshots folder |
+| <kbd>Win</kbd><kbd>Alt</kbd><kbd>PrtScn</kbd> | Screenshot of active window & auto-save to file |
 | <kbd>PrtScn</kbd> | Copy full screenshot to clipboard |
 | <kbd>Ctrl</kbd><kbd>Esc</kbd> | Open Start menu |
 | <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>Esc</kbd> | Open Task Manager |
@@ -68,7 +68,7 @@
 | <kbd>Win</kbd><kbd>→</kbd> | Snap active window to right half |
 | <kbd>Win</kbd><kbd>Home</kbd> | Minimize all except active window |
 | <kbd>Win</kbd><kbd>Shift</kbd><kbd>↑</kbd> | Stretch active window vertically |
-| <kbd>Win</kbd><kbd>Shift</kbd><kbd>→</kbd> | or <kbd>←</kbd> Move window to another monitor |
+| <kbd>Win</kbd><kbd>Shift</kbd><kbd>→</kbd> or <kbd>←</kbd> | Move window to another monitor |
 | <kbd>Win</kbd><kbd>Ctrl</kbd><kbd>D</kbd> | Create new virtual desktop |
 | <kbd>Win</kbd><kbd>Ctrl</kbd><kbd>←</kbd>/<kbd>→</kbd> | Switch between virtual desktops |
 | <kbd>Win</kbd><kbd>Ctrl</kbd><kbd>F4</kbd> | Close current virtual desktop |
@@ -76,7 +76,7 @@
 ## File Explorer
 
 |---|---|
-| <kbd>Alt</kbd><kbd>D</kbd> | or <kbd>F4</kbd> Focus address bar |
+| <kbd>Alt</kbd><kbd>D</kbd> or <kbd>F4</kbd> | Focus address bar |
 | <kbd>Ctrl</kbd><kbd>E</kbd>/<kbd>F</kbd>/<kbd>F3</kbd> | Focus search bar |
 | <kbd>Ctrl</kbd><kbd>N</kbd> | Open new window |
 | <kbd>Ctrl</kbd><kbd>T</kbd> | Open new tab (also in many browsers) |
