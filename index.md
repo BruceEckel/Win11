@@ -1,5 +1,6 @@
 # Windows 11 Notes & Shortcuts
 
+| General |
 |---|---|
 | <kbd>Win</kbd><kbd>A</kbd> | Open Quick Settings panel |
 | <kbd>Win</kbd><kbd>C</kbd> | Open Copilot (in supported regions) |
@@ -51,6 +52,7 @@
 | <kbd>PrtScn</kbd> | Copy full screenshot to clipboard |
 | <kbd>Ctrl</kbd><kbd>Esc</kbd> | Open Start menu |
 | <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>Esc</kbd> | Open Task Manager |
+<br><br>
 
 | Multitasking & Window Management |
 |---|---|
@@ -71,9 +73,9 @@
 | <kbd>Win</kbd><kbd>Ctrl</kbd><kbd>D</kbd> | Create new virtual desktop |
 | <kbd>Win</kbd><kbd>Ctrl</kbd><kbd>←</kbd>/<kbd>→</kbd> | Switch between virtual desktops |
 | <kbd>Win</kbd><kbd>Ctrl</kbd><kbd>F4</kbd> | Close current virtual desktop |
+<br><br>
 
-## File Explorer
-
+| File Explorer |
 |---|---|
 | <kbd>Alt</kbd><kbd>D</kbd> | or <kbd>F4</kbd> Focus address bar |
 | <kbd>Ctrl</kbd><kbd>E</kbd>/<kbd>F</kbd>/<kbd>F3</kbd> | Focus search bar |
@@ -98,14 +100,14 @@
 | <kbd>F11</kbd> | Maximize or minimize current window (also in browsers) |
 <br><br>
 
-| Sidebar ||
+| Sidebar |
 |---|---|
 | <br><kbd>NumLock</kbd><kbd>+</kbd> | Expand selected folder |
 | <br><kbd>→</kbd> | Expand collapsed folder or jump to first subfolder |
 | <br><kbd>←</kbd> | Collapse expanded folder or select parent folder |
+<br><br>
 
-## Dialog Boxes
-
+| Dialog Boxes |
 |---|---|
 | <kbd>F4</kbd> | or <kbd>Space</kbd> Show dropdown list items |
 | <kbd>Arrows</kbd> | Navigate list items or radio buttons |
@@ -115,9 +117,9 @@
 | <kbd>Tab</kbd> | Move forward through options |
 | <kbd>Shift</kbd><kbd>Tab</kbd> | Move backward through options |
 | <kbd>Alt</kbd><kbd>Letter</kbd> | Select option with that underlined letter |
+<br><br>
 
-## Taskbar
-
+| Taskbar |
 |---|---|
 | <kbd>Win</kbd><kbd>T</kbd> | Cycle through taskbar apps |
 | <kbd>Win</kbd><kbd>Number</kbd> | Open app pinned to that position on taskbar |
@@ -131,9 +133,9 @@
 | <br><kbd>Shift</kbd><kbd>right-click</kbd></kbd> | Show window menu for selected app |
 | <br><kbd>Ctrl</kbd><kbd>left-click</kbd> | (if multiple windows) Cycle through that app’s windows |
 | <kbd>Win</kbd><kbd>B</kbd> | Focus first icon in taskbar corner (system tray) |
+<br><br>
 
-## Editing
-
+| Editing |
 |---|---|
 | <kbd>Ctrl</kbd><kbd>A</kbd> | Select all |
 | <kbd>Ctrl</kbd><kbd>D</kbd> | Delete selected item/text |
