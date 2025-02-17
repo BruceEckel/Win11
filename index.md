@@ -137,11 +137,10 @@
 | <br><kbd>Ctrl</kbd><kbd>left-click</kbd> | (if multiple windows) Cycle through that app’s windows |
 | <kbd>Win</kbd><kbd>B</kbd> | Focus first icon in taskbar corner (system tray) |
 
-<br><br>
+<br>
 
 ## Editing
 
-|||
 |---|---|
 | <kbd>Ctrl</kbd><kbd>A</kbd> | Select all |
 | <kbd>Ctrl</kbd><kbd>D</kbd> | Delete selected item/text |
