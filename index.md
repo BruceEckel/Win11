@@ -1,4 +1,3 @@
-## General
 
 |---|---|
 | <kbd>Win</kbd><kbd>A</kbd> | Open Quick Settings panel |
