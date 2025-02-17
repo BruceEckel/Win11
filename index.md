@@ -50,6 +50,7 @@
 | <kbd>PrtScn</kbd> | Copy full screenshot to clipboard |
 | <kbd>Ctrl</kbd><kbd>Esc</kbd> | Open Start menu |
 | <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>Esc</kbd> | Open Task Manager |
+
 <br><br>
 
 | Multitasking & Window Management ||
@@ -71,6 +72,7 @@
 | <kbd>Win</kbd><kbd>Ctrl</kbd><kbd>D</kbd> | Create new virtual desktop |
 | <kbd>Win</kbd><kbd>Ctrl</kbd><kbd>←</kbd>/<kbd>→</kbd> | Switch between virtual desktops |
 | <kbd>Win</kbd><kbd>Ctrl</kbd><kbd>F4</kbd> | Close current virtual desktop |
+
 <br><br>
 
 | File Explorer ||
@@ -96,6 +98,7 @@
 | <kbd>Ctrl</kbd><kbd>Space</kbd> | Select/deselect item under cursor |
 | <kbd>Shift</kbd><kbd>Arrow</kbd> | Select consecutive items from current item |
 | <kbd>F11</kbd> | Maximize or minimize current window (also in browsers) |
+
 <br><br>
 
 | Sidebar ||
@@ -103,6 +106,7 @@
 | <br><kbd>NumLock</kbd><kbd>+</kbd> | Expand selected folder |
 | <br><kbd>→</kbd> | Expand collapsed folder or jump to first subfolder |
 | <br><kbd>←</kbd> | Collapse expanded folder or select parent folder |
+
 <br><br>
 
 | Dialog Boxes ||
@@ -115,6 +119,7 @@
 | <kbd>Tab</kbd> | Move forward through options |
 | <kbd>Shift</kbd><kbd>Tab</kbd> | Move backward through options |
 | <kbd>Alt</kbd><kbd>Letter</kbd> | Select option with that underlined letter |
+
 <br><br>
 
 | Taskbar ||
@@ -131,6 +136,7 @@
 | <br><kbd>Shift</kbd><kbd>right-click</kbd></kbd> | Show window menu for selected app |
 | <br><kbd>Ctrl</kbd><kbd>left-click</kbd> | (if multiple windows) Cycle through that app’s windows |
 | <kbd>Win</kbd><kbd>B</kbd> | Focus first icon in taskbar corner (system tray) |
+
 <br><br>
 
 | Editing ||
@@ -162,6 +168,7 @@
 | <kbd>End</kbd> | Move to end of current line |
 | <kbd>Ctrl</kbd><kbd>End</kbd> | Move to end of document |
 | <kbd>Alt</kbd><kbd>Shift</kbd><kbd>Arrow</kbd> | Move pinned Start-menu app in arrow direction |
+
 <br><br>
 
 | Menus ||
