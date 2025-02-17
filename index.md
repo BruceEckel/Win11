@@ -1,9 +1,3 @@
-<a href="https://github.com/BruceEckel/tools" target="_blank">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24">
-</a>
-
-# Windows 11 Notes & Shortcuts
-
 ## General
 
 <br><kbd>Win</kbd><kbd>A</kbd> Open Quick Settings panel
